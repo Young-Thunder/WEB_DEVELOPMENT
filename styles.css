@@ -1,0 +1,21 @@
+body{
+    background-color: #b0cac7;
+}
+hr{
+    
+    border-style: none;
+    border-top-style:dotted;
+    border-color:green;
+    border-width: 5px;
+    width: 10%;
+    height: 0px;
+}
+h1 {
+    color: goldenrod;
+  }
+h2 {
+    color: goldenrod;
+}
+h3 {
+    color: beige;
+}
