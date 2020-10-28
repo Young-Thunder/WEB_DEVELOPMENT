@@ -1,0 +1,114 @@
+html {
+    background-color: black;
+}
+body, h1{
+    margin: 0;
+}
+body {
+    height 
+}
+header {
+    background-color: red;
+    height: 100px;
+    width: 700px;
+    margin: 0;
+    
+}
+h1 {
+    padding-top: 20px;
+}
+
+/*
+HEADER SECTION 
+*/
+.header-text {
+    color: #fff;
+    height: auto;
+    width: auto;
+    text-align: right;
+    
+}
+.header-image {
+    position: absolute;
+    top: 0;
+    right: 15px;
+    height: 140px;
+    width: 150px;
+    
+   
+    
+}
+.header-para {
+    text-align: right;
+    padding-right: 100px;
+}
+.header-div {
+    height :100px;
+    background-color: red;
+}
+
+/*NAVIGATION SECTION*/
+
+
+.navi {
+    color: #fff;
+    background-color: green;
+    height: 50px;
+}
+.navi-list {
+    font-size: x-large;
+    margin-top: 0px;
+}
+.home {
+    display:inline-block; 
+    margin-left: 0px; 
+   
+}
+.blog {
+    display:inline-block; 
+    margin-left: 200px; 
+}
+.photos {
+    display:inline-block; 
+    margin-left: 200px; 
+}
+.contact-us {
+    display:inline-block; 
+    margin-left: 350px;
+}
+
+
+/*NEWS ALERTS*/
+
+.news-alert {
+    background-color: gray;
+    width: 700px;
+    height: 500px;
+
+}
+
+/*PHOTOS*/
+
+#photos-page {
+    background-color: rgb(30, 23, 136);
+    height: 500px;
+    width: 563px;
+    position: absolute;
+    top:150px;
+    display:inline-block; 
+    margin-left: 700px;
+
+}
+.image-kyile {
+    height: 200px;
+    width: 300px;
+
+}
+.image-rolls {
+
+    height: 200px;
+    width: 300px;
+}
+/*CONTACT_US PAGE*/
+
+
